@@ -21,6 +21,7 @@ https://git-scm.com/downloads
 Install virtualenv:
 
     $ pip install virtualenv
+    // https://stackoverflow.com/questions/31133050/virtualenv-command-not-found
 
 # Download pb-exercises requirements
 
